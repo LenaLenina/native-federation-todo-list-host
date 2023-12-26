@@ -1,0 +1,8 @@
+[
+  {
+    "path": "todo-list",
+    "remoteName": "mfe",
+    "exposedModule": "./TodoListModule",
+    "module": "TodoListModule"
+  }
+]
