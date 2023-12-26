@@ -15,3 +15,7 @@ ng add @angular-architects/native-federation@16.2.0 --project host --port 4200 -
 ng serve host -o
 
 ng build host
+
+## Deployed application
+
+https://native-federation-todo-list-host.netlify.app/
